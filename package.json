@@ -1,6 +1,6 @@
 {
   "name": "nlua",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for calling Lua scripts from Node.js",
   "type": "module",
   "main": "./dist/index.js",
